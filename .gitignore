@@ -1,0 +1,5 @@
+bin/
+hasil/
+*.class
+target/
+.DS_Store
